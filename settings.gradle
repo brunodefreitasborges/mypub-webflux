@@ -1,0 +1,6 @@
+rootProject.name = 'MyPub'
+include ':contract'
+include ':implementation'
+include ':common'
+
+
